@@ -1,2 +1,3 @@
-# awesome-apache-pulsar
-Curated list of resources about Apache Puslar
+[<img src="https://github.com/jghoman/awesome-apache-pulsar/raw/master/pulsar-logo.png" align="right">](https://pulsar.apache.org/)
+# Awesome Apache Pulsar ![contrib badge](https://img.shields.io/github/contributors/jghoman/awesome-apache-pulsar.svg)
+This is a curated list of resources about [Apache Pulsar](https://pulsar.apache.org/).  Please feel free to contribute any items that should be included. Items are generally added at the top of each section so that more fresh items are featured more prominently.
