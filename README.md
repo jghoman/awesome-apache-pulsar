@@ -18,6 +18,7 @@ This is a curated list of resources about [Apache Pulsar](https://pulsar.apache.
 ## Architecture
 _n.b. these are roughly ordered by year and month of release, most recent at top_
 - 2020-06: [Introduction to Apache Pulsar](https://www.baeldung.com/apache-pulsar) - Short walk-through of Pulsar's basic architecture and quickstart steps.
+- 2018-10: [Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works) -  [Jack Vanlightly](https://twitter.com/vanlightly) provides a thorough guide to the different arechitectural layers of Pulsar.
 
 ## Comparisons with Apache Kafka
 _n.b. these are roughly ordered by year and month of release, most recent at top_
