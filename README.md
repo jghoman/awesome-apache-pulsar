@@ -39,3 +39,4 @@ _n.b. these are roughly ordered by year and month of release, most recent at top
   - [C#](https://pulsar.apache.org/docs/en/client-libraries-dotnet)
 - [pulsar-rs](https://github.com/wyyerd/pulsar-rs) ![Activity badge](https://img.shields.io/github/commit-activity/m/wyyerd/pulsar-rs) - Stand-alone Rust client that does not rely on C++ bindings.
 - [pulsar-4s](https://github.com/sksamuel/pulsar4s) ![Activity badge](https://img.shields.io/github/commit-activity/m/sksamuel/pulsar4s) - Idiomatic Scala wrapper around the [official Java client](https://pulsar.apache.org/docs/en/client-libraries-java).
+- [stargate](https://github.com/jeffgrunewald/stargate) ![Activity badge](https://img.shields.io/github/commit-activity/m/jeffgrunewald/stargate) - [Elixir](https://elixir-lang.org/) client that uses Pulsar's websocket APIs.
